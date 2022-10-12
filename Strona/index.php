@@ -18,7 +18,7 @@
                     <p>Zamówienia</p>
                 </div></a>
                 <a href="pracownik.php"><div class="menu">
-                    <p>SQL</p>
+                    <p>SQL-bazadanych</p>
                     </div></a>
             </div>
             <div id="prawy">
